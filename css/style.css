@@ -2,6 +2,7 @@ nav#main-navbar {
   background-color: blue;
   float: left;
   width: 100%;
+  overflow: hidden;
 }
 
 #navbar-container ul{
@@ -12,7 +13,6 @@ nav#main-navbar {
   float: left;
   left: 50%;
   right: 50%;
-  overflow: hidden;
 }
 #navbar-container ul li{
 
