@@ -11,10 +11,16 @@ nav#main-navbar {
   padding: 0;
 }
 #sidebar {
-
+  position: fixed;
+  right: 0%;
+  background-color: red;
+  height: 100%;
+  width: 20%;
 }
-#sidebar-container {
-
+#sidebar-container ul{
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
 }
 #onpage {
 
