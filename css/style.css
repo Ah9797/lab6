@@ -6,10 +6,10 @@
   float: left;
   width: 100%;
   overflow: hidden;
-  position: relative;
 }
 #navbar-container{
   list-style-type: none;
+  position: relative;
 }
 #navbar-container ul{
   margin: 0;
@@ -19,8 +19,8 @@
   left: 50%;
 }
 #navbar-container ul li{
-  float: left;
   position: relative;
+  float: left;
   right: 50%;
   display: block;
 }
